@@ -26,7 +26,7 @@ Each iteration will add a section to the page.
 
 1. [x] Hero
 
-1. [] Features
+1. [x] Features
 
 1. [] Testimony
 
