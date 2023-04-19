@@ -1,0 +1,14 @@
+{
+    "name": "odin-landing",
+    "version": "1.0.0",
+    "description": "Project from The Odin Project Curriculum",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "grompeys",
+    "license": "ISC",
+    "devDependencies": {
+        "tailwindcss": "^3.3.1"
+    }
+}
