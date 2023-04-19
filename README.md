@@ -30,6 +30,6 @@ Each iteration will add a section to the page.
 
 1. [x] Testimonial
 
-1. [] Call to Action
+1. [x] Call to Action
 
 1. [] Footer
