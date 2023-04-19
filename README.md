@@ -24,7 +24,7 @@ Each iteration will add a section to the page.
 
 1. [x] Header
 
-1. [] Hero
+1. [x] Hero
 
 1. [] Features
 
