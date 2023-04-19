@@ -9,6 +9,9 @@ module.exports = {
                 "alt-text": "#e5e7eb",
                 primary: "#3882f6",
             },
+            fontFamily: {
+                odin: ["Roboto", "sans-serif"],
+            },
         },
     },
     plugins: [],

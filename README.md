@@ -22,7 +22,7 @@ Create an entire web page from the provided design.
 
 Each iteration will add a section to the page.
 
-1. [] Header
+1. [x] Header
 
 1. [] Hero
 
