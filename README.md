@@ -32,4 +32,4 @@ Each iteration will add a section to the page.
 
 1. [x] Call to Action
 
-1. [] Footer
+1. [x] Footer
