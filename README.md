@@ -28,7 +28,7 @@ Each iteration will add a section to the page.
 
 1. [x] Features
 
-1. [] Testimony
+1. [x] Testimonial
 
 1. [] Call to Action
 
